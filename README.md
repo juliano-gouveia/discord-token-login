@@ -38,4 +38,4 @@ This bookmarklet is provided for educational purposes only. Using this tool may 
 
 ## Contact
 
-For any questions or issues, please open an issue on this repository or contact me on [<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">](https://discord.com/users/714098639919775805).
+For any questions or issues, please open an issue on this repository or contact me on [<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">](https://discord.com/users/714098639919775805)
