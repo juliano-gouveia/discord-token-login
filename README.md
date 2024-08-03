@@ -38,4 +38,4 @@ This bookmarklet is provided for educational purposes only. Using this tool may 
 
 ## Contact
 
-For any questions or issues, please open an issue on this repository or contact [your email or preferred contact method].
+For any questions or issues, please open an issue on this repository or contact me on discord "juliano._".
