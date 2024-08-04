@@ -9,9 +9,7 @@ This bookmarklet allows you to log into a Discord account using a token. It is d
 
 ## How to Use 
 
-1. **Create the Bookmarklet:** - Copy the following code snippet:
-
-```javascript:(function()%7Bfunction login(token) %7B%0A    setInterval(() %3D> %7B%0A        document.body.appendChild(document.createElement('iframe')).contentWindow.localStorage.token %3D %60"%24%7Btoken%7D"%60%3B%0A    %7D%2C 50)%3B%0A    setTimeout(() %3D> %7B%0A        location.reload()%3B%0A    %7D%2C 2500)%3B%0A%7D%0A%0A%2F%2F Prompt the user for the token%0Aconst userToken %3D prompt("Please enter your token%3A")%3B%0Aif (userToken) %7B%0A    login(userToken)%3B%0A%7D else %7B%0A    console.error("No token provided.")%3B%0A%7D%7D)()%3B```
+1. **Create the Bookmarklet:** - Copy the latest snippet of code from our [releases](https://github.com/JULI4N0/discord-token-login/releases)
 
 - Create a new bookmark in your browser.
 - Paste the code snippet into the bookmark's URL field.
