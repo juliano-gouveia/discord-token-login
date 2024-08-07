@@ -4,6 +4,8 @@
 
 | Version | Supported          |
 | ------- | ------------------ |
+| 2.0.2   | ![Supported](https://img.shields.io/badge/Supported-brightgreen?style=for-the-badge) |
+| 2.0.1   | ![Supported](https://img.shields.io/badge/Supported-brightgreen?style=for-the-badge) |
 | 2.0.0   | ![Supported](https://img.shields.io/badge/Supported-brightgreen?style=for-the-badge) |
 | 1.0.1   | ![Supported](https://img.shields.io/badge/Supported-brightgreen?style=for-the-badge) |
 | 1.0.0   | ![Supported](https://img.shields.io/badge/Supported-brightgreen?style=for-the-badge) |
